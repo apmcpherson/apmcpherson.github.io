@@ -2,7 +2,7 @@
 title: 'Augmented Instruments Lab'
 subtitle: 'My research group at Queen Mary University of London'
 date: 2021-05-30 00:00:00
-description:
+description: The Augmented Instruments Lab, led by Andrew McPherson, is part of QMUL's Centre for Digital Music.
 featured_image: '/images/instrumentslab.png'
 ---
 

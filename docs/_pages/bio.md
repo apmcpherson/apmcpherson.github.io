@@ -1,7 +1,7 @@
 ---
 title: Bio
 subtitle: 
-description:
+description: Andrew McPherson is a researcher, composer, engineer and instrument designer.
 featured_image: /images/mcpherson_headshot.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: 'TouchKeys'
 subtitle: 'Multi-touch sensing on the piano keyboard'
 date: 2021-05-30 00:00:00
-description:
+description: TouchKeys transforms the keyboard into an expressive multi-touch control surface.
 featured_image: '/images/touchkeys_inverted.jpg'
 ---
 
