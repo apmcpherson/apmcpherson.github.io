@@ -33,6 +33,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/InstrumentsLab'
+  mastodon_url: 'https://hci.social/@amcpherson'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: 'https://www.youtube.com/user/apm414/'
