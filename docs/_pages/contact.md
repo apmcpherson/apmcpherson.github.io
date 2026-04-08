@@ -5,6 +5,6 @@ description:
 featured_image:
 ---
 
-{% include contact-form.html %}
+Please get in touch at [andrew@andrewmcpherson.org](mailto:andrew@andrewmcpherson.org) or [andrew.mcpherson@imperial.ac.uk](mailto:andrew.mcpherson@imperial.ac.uk).
 
-You can also reach me by email at [andrew@andrewmcpherson.org](mailto:andrew@andrewmcpherson.org) or find me on [Bluesky](https://bsky.app/profile/apmcpherson.bsky.social).
+You can find me on [Bluesky](https://bsky.app/profile/apmcpherson.bsky.social) and [Mastodon](https://hci.social/@amcpherson).
